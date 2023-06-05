@@ -10,7 +10,8 @@
 
 body {
     background-image: url(./assets/universo-bg.jpg);
-    background-size: cover;
+    background-size: contain;
+    background-repeat: repeat-y;
 }
 
 a {
